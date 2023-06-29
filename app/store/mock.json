@@ -1,0 +1,136 @@
+{
+  "transports": [
+    {
+      "id": "1",
+      "category": "truck",
+      "driver": {
+        "name": "Jason",
+        "phone_number": "+996702323375"
+      },
+      "coordinate": {
+        "latitude": 42.875024,
+        "longitude": 74.571552
+      }
+    },
+    {
+      "id": "2",
+      "category": "passenger",
+      "driver": {
+        "name": "Arnold",
+        "phone_number": "+996702323375"
+      },
+      "coordinate": {
+        "latitude": 49.875024,
+        "longitude": 77.571552
+      }
+    },
+    {
+      "id": "3",
+      "category": "passenger",
+      "driver": {
+        "name": "Leonel",
+        "phone_number": "+996702323375"
+      },
+      "coordinate": {
+        "latitude": 41.875024,
+        "longitude": 73.571552
+      }
+    },
+    {
+      "id": "4",
+      "category": "special",
+      "driver": {
+        "name": "Karim",
+        "phone_number": "+996702323375"
+      },
+      "coordinate": {
+        "latitude": 42.975024,
+        "longitude": 74.771552
+      }
+    },
+    {
+      "id": "5",
+      "category": "truck",
+      "driver": {
+        "name": "Robert",
+        "phone_number": "+996702323375"
+      },
+      "coordinate": {
+        "latitude": 42.675024,
+        "longitude": 74.171552
+      }
+    },
+    {
+      "id": "6",
+      "category": "passenger",
+      "driver": {
+        "name": "Sergio",
+        "phone_number": "+996702323375"
+      },
+      "coordinate": {
+        "latitude": 42.275024,
+        "longitude": 74.971552
+      }
+    },
+    {
+      "id": "8",
+      "category": "truck",
+      "driver": {
+        "name": "Chris",
+        "phone_number": "+996702323375"
+      },
+      "coordinate": {
+        "latitude": 42.875024,
+        "longitude": 74.571552
+      }
+    },
+    {
+      "id": "9",
+      "category": "special",
+      "driver": {
+        "name": "Agent",
+        "phone_number": "+996702323375"
+      },
+      "coordinate": {
+        "latitude": 42.875024,
+        "longitude": 74.571552
+      }
+    },
+    {
+      "id": "91",
+      "category": "special",
+      "driver": {
+        "name": "Agent",
+        "phone_number": "+996702323375"
+      },
+      "coordinate": {
+        "latitude": 42.875024,
+        "longitude": 74.571552
+      }
+    },
+    {
+      "id": "93",
+      "category": "special",
+      "driver": {
+        "name": "Agent",
+        "phone_number": "+996702323375"
+      },
+      "coordinate": {
+        "latitude": 42.875024,
+        "longitude": 74.571552
+      }
+    },
+    {
+      "id": "10",
+      "category": "passenger",
+      "driver": {
+        "name": "Andro",
+        "phone_number": "+996702323375"
+      },
+      "coordinate": {
+        "latitude": 42.875024,
+        "longitude": 74.571552
+      }
+    }
+  ]
+}
